@@ -47,7 +47,7 @@ I love building scalable and efficient web applications, solving **DSA problems*
 ## 📊 GitHub Stats  
 <div align="center">
   <a href="https://github.com/IMMORTAL-VISHAL">
-    <img src="https://streak-stats.demolab.com?user=IMMORTAL-VISHAL&theme=radical&hide_border=true&border_radius=10" 
+    <img src="https://streak-stats.demolab.com?user=mortalvishal&theme=radical&hide_border=true&border_radius=10" 
          alt="GitHub Streak"
          style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(255, 0, 0, 0.5);"/>
   </a>
